@@ -8,7 +8,7 @@ from django.db import models
 #         verbose_name = 'Pregunta'
 #         verbose_name_plural = 'Preguntas'
 #
-# class Respuesta(models.Model):
+# class Answer(models.Model):
 #
 #     class Meta:
 #         verbose_name = 'Respuesta'
