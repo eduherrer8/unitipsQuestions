@@ -4,11 +4,11 @@ Used for testing Django Knowledge
 Utiliza este template de inicio para crear una aplicación de preguntas y respuestas.
 __Tienes 2 horas totales__ para entregar la aplicación final
 
-###¿Qué se requiere de la aplicación?
+<h3>¿Qué se requiere de la aplicación?</h3>
 
 La aplicación debe simular una base de datos de preguntas de opción múltiple que se pueda consultar y responder
 
-###¿Qué debe de poder hacer como mínimo la aplicación
+<h3>¿Qué debe de poder hacer como mínimo la aplicación</h3>
 
 2 pantallas como mínimo
 <ul>
@@ -20,7 +20,7 @@ correctamente la pregunta</li>
 <li>Debe de desarrollarse utilzando principios de Test Driven Development (TDD)</li>
 </ul>
 
-###*Bonus Points:
+<h3>*Bonus Points:</h3>
 
 <ul>
 <li>Hacer que en cada request se muestren de forma aleatorea el orden de respuestas</li>
@@ -31,7 +31,7 @@ correctamente la pregunta</li>
 <li>Utilización de staticfiles para otorgar mejor experiencia de usuario</li>
 </ul>
 
-###**Consideraciones
+<h3>**Consideraciones</h3>
 
 <ul>
 <li>Esto no es una evaluación de tecnologías de FrontEnd así que no deberías de perder tiempo diseñando pantallas o
