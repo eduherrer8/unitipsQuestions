@@ -34,6 +34,7 @@ correctamente la pregunta</li>
 <h3>**Consideraciones</h3>
 
 <ul>
+<li>De preferencia, crea un entorno virtual utilizando al menos el interprete de Python 3.4 o superior</li>
 <li>Esto no es una evaluación de tecnologías de FrontEnd así que no deberías de perder tiempo diseñando pantallas o
     haciendo que se vean bien. Utiliza conocimientos mínimos de HTML para mostrar las interfaces. Esto evalúa tus capacidades
     en Django, no de UI.</li>
