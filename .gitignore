@@ -10,3 +10,8 @@ gen
 db.sqlite3
 /media
 
+.DS_Store
+quiz/__pycache__/
+quiz/migrations/__pycache__/
+src/.DS_Store
+src/__pycache__/
