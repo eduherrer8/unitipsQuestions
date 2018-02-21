@@ -19,7 +19,6 @@ from django.views.generic import TemplateView
 from quiz import urls as quiz_urls
 
 urlpatterns = [
-    url(r'^$', TemplateView.as_view(template_name='home.html'), name='homepage'),
     url(r'^quiz/', include(quiz_urls, namespace='quiz')),
     url(r'^admin/', admin.site.urls)
 ]
