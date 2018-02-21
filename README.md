@@ -23,6 +23,7 @@ correctamente la pregunta</li>
 <h3>*Bonus Points:</h3>
 
 <ul>
+<li>Implementar la solución a través de django REST Framework</li>
 <li>Hacer que en cada request se muestren de forma aleatorea el orden de respuestas</li>
 <li>Permitir utilización de Imagenes en preguntas y respuestas</li>
 <li>Guardar porcentajes de respuestas como parte de la retroalimentación, es decir, un histórico de respuestas</li>
@@ -40,6 +41,6 @@ correctamente la pregunta</li>
     en Django, no de UI.</li>
 <li>Enfócate en la mínima funcionalidad requerida y no pases a los bonus points hasta que tengas probada tu funcionalidad</li>
 <li>Unit testea tu solución!</li>
-<li>Puedes consultar la documentación de Django, sin embargo, queda prohibido utilizar dependencias externas fuera de Django</li>
+<li>Puedes consultar la documentación de Django, sin embargo, queda prohibido utilizar dependencias externas fuera de Django o django-restframework</li>
 </ul>
 
